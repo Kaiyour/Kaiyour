@@ -16,7 +16,7 @@ I am currently studying at MNC University, majoring in Computer Science. I began
 ## Core Skills
 
 - *Programming Languages:* JavaScript, Python, Java, C++, C, Html, CSS
-- *Frameworks and Tools:* React, Node.js
+- *Frameworks and Tools:* React
 - *Databases:* MySQL
 
 ## Featured Projects
