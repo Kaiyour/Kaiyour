@@ -15,19 +15,11 @@ I am currently studying at MNC University, majoring in Computer Science. I began
 
 ## Core Skills
 
-- *Programming Languages:* JavaScript, Python, Java, C++
-- *Design Expertise:* UX/UI Design, Graphic Design
-- *Frameworks and Tools:* React, Node.js, Django, Docker
-- *Databases:* MySQL, MongoDB, PostgreSQL
+- *Programming Languages:* JavaScript, Python, Java, C++, C, Html, CSS
+- *Frameworks and Tools:* React, Node.js
+- *Databases:* MySQL
 
 ## Featured Projects
-
-## Why Collaborate with Me?
-
-- *Innovative Solutions:* I am committed to delivering creative and efficient solutions tailored to meet your specific needs.
-- *Technical Proficiency:* My diverse skill set in programming, design, and database management ensures comprehensive and high-quality outcomes.
-- *Collaborative Approach:* I value teamwork and open communication, striving to build strong working relationships with clients and colleagues alike.
-- *Continuous Learning:* My ongoing education and passion for technology keep me at the forefront of industry trends and best practices.
 
 ## How to Contact Me
 
