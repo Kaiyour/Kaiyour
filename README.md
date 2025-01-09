@@ -20,6 +20,7 @@ I am currently studying at MNC University, majoring in Computer Science. I began
 - *Databases:* MySQL
 
 ## Featured Projects
+- **EduSchedule**: A project to help students manage their schedules efficiently. [GitHub Repository](https://github.com/Kaiyour/EduSchedule)
 
 ## How to Contact Me
 
